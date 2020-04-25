@@ -16,4 +16,3 @@ This **loades one dataset**:
 - datetime (Manipulatin date and time)
 - matplotlib.pyplot as plt (To create graphs)
 - dataproject (The project)
-- pylab
