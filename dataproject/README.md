@@ -10,12 +10,9 @@ This **loades one dataset**:
 
 **Dependencies:** Apart from a standard Anaconda Python 3 installation, the project requires the following installations:
 
-import numpy as np
-import pandas as pd
-import datetime
-import matplotlib.pyplot as plt
-plt.style.use('seaborn-whitegrid')
-import ipywidgets as widgets
-import seaborn as sns; sns.set()
-import dataproject
-import pylab
+*Installed from Jupyter Notebook:*
+- numpy as np (Makes a multidimensional array object)
+- pandas as pd (For data structure)
+- datetime (Manipulating date and time)
+- matplotlib.pyplot as plt (To create graphs)
+- dataproject (The project)
