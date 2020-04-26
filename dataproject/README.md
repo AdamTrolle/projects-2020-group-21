@@ -13,6 +13,6 @@ This **loades one dataset**:
 *Installed from Jupyter Notebook:*
 - numpy as np (Makes a multidimensional array object)
 - pandas as pd (For data structure)
-- datetime (Manipulatin date and time)
+- datetime (Manipulating date and time)
 - matplotlib.pyplot as plt (To create graphs)
 - dataproject (The project)
